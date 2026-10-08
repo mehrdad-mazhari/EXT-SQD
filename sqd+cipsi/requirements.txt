@@ -1,0 +1,5 @@
+numpy==2.5.3
+qiskit==2.5.2
+qiskit-addon-sqd==0.13.1
+pyscf==2.14.0
+matplotlib==3.11.2

@@ -1,0 +1,4 @@
+-r requirements.txt
+ffsim==0.0.84
+qiskit-ibm-runtime==0.50.0
+qiskit-aer==0.17.2

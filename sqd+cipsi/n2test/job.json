@@ -1,0 +1,14 @@
+{
+  "molecule": "N2",
+  "backend": null,
+  "shots_requested": 1000,
+  "versions": {
+    "numpy": "2.5.2",
+    "qiskit": "2.5.0",
+    "qiskit-ibm-runtime": "0.48.0",
+    "ffsim": "0.0.83",
+    "pyscf": "2.14.0"
+  },
+  "hamiltonian_origin": "Rebuilt from current molecule module; historical orbital identity is not verified",
+  "job_id": "da1vl6qein7c73bdun20"
+}

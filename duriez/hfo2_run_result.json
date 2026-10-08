@@ -1,0 +1,29 @@
+{
+  "sampling": "local_mps_bond64",
+  "shots": 1000,
+  "energy_eV": -389.41503837926166,
+  "iteration_energies_eV": [
+    [
+      -356.0836225094764,
+      -356.20637300270374,
+      -356.0916345572591
+    ],
+    [
+      -356.33775942736645,
+      -378.0417249118326,
+      -356.3322747460401
+    ],
+    [
+      -378.041725868946,
+      -389.41503837926166,
+      -378.0426351595501
+    ]
+  ],
+  "samples_per_batch": 50,
+  "num_batches": 3,
+  "max_iterations": 3,
+  "valid_particle_number_shots": 93,
+  "particle_number_shots_total": 1000,
+  "paper_tensor_convention": true,
+  "converged_material_result": false
+}
